@@ -6,17 +6,19 @@ computer.
 
 Modified by RetroRodent to include convenient features and fixes left languishing on the seemingly abandoned official repo.
 
-
+===========
 Fixes included:
-- pull_35 delmic: Update .get_string() call to follow latest pyusb convension
-- pull_45 jmtd: Add trailing newline to udev rule
-- pull_50 dakotacody: Added function to return a random hex
-- pull_56 dpiche174: Fix misplaced closing parenthesis
-- pull_58 jiceher: Fix issue #57 : check for device while get serial
-- pull_72 StefanUlbrich: Fix error in adding udev rule
-- pull_75 chaddcw: fix intensity scaling in blink, pulse, and morph
-- pull_80 PureTryOut: Changed dependency on pyusb to accept anything higher than 1.0.0
-- pull_81 PureTryOut: Make sure to use python3
+===========
+
+-  pull_35 delmic: Update .get_string() call to follow latest pyusb convension
+-  pull_45 jmtd: Add trailing newline to udev rule
+-  pull_50 dakotacody: Added function to return a random hex
+-  pull_56 dpiche174: Fix misplaced closing parenthesis
+-  pull_58 jiceher: Fix issue #57 : check for device while get serial
+-  pull_72 StefanUlbrich: Fix error in adding udev rule
+-  pull_75 chaddcw: fix intensity scaling in blink, pulse, and morph
+-  pull_80 PureTryOut: Changed dependency on pyusb to accept anything higher than 1.0.0
+-  pull_81 PureTryOut: Make sure to use python3
 
 
 What is BlinkStick? It's a smart USB LED pixel. More info about it here:
